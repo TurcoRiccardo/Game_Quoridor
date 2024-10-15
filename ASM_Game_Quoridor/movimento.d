@@ -1,0 +1,14 @@
+.\movimento.o: game\movimento.c
+.\movimento.o: game\game.h
+.\movimento.o: C:\Users\turco\AppData\Local\Arm\Packs\Keil\LPC1700_DFP\2.7.1\Device\Include\lpc17xx.h
+.\movimento.o: C:\Users\turco\AppData\Local\Arm\Packs\ARM\CMSIS\5.9.0\CMSIS\Core\Include\core_cm3.h
+.\movimento.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
+.\movimento.o: C:\Users\turco\AppData\Local\Arm\Packs\ARM\CMSIS\5.9.0\CMSIS\Core\Include\cmsis_version.h
+.\movimento.o: C:\Users\turco\AppData\Local\Arm\Packs\ARM\CMSIS\5.9.0\CMSIS\Core\Include\cmsis_compiler.h
+.\movimento.o: C:\Users\turco\AppData\Local\Arm\Packs\ARM\CMSIS\5.9.0\CMSIS\Core\Include\cmsis_armcc.h
+.\movimento.o: C:\Users\turco\AppData\Local\Arm\Packs\ARM\CMSIS\5.9.0\CMSIS\Core\Include\mpu_armv7.h
+.\movimento.o: C:\Users\turco\AppData\Local\Arm\Packs\Keil\LPC1700_DFP\2.7.1\Device\Include\system_LPC17xx.h
+.\movimento.o: game\../timer/timer.h
+.\movimento.o: game\../GLCD/GLCD.h
+.\movimento.o: game\../RIT/RIT.h
+.\movimento.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\string.h
